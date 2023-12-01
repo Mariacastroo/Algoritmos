@@ -14,8 +14,8 @@ inteiro i
     {
 {
         soma <- 0
-        menorNota <- 10  // Inicialize com um valor alto
-        maiorNota <- 0   // Inicialize com um valor baixo
+        menorNota <- 10  
+        maiorNota <- 0   
 
             para(inteiro i=0 ;i>1;j++)}
             escreva("Digite a nota do al(uno ", i, ": ")
