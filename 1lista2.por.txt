@@ -47,3 +47,5 @@ inteiro i
 		
 	}
 }
+Link de teste:
+https://dgadelha.github.io/Portugol-Webstudio/#share=9iz3pf9
