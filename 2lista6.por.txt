@@ -1,55 +1,45 @@
-programa
-{
-	funcao inicio ()
-	{
-        inteiro Vetor[0..29] de 
-        inteiro soma, menor, maior
-        inteiro i
+programa {
+  funcao inicio() {
+    
+  }
+inteiro vetor[0..29] de 
+inteiro soma, menor, maior
+inteiro i
 
     
 	}
         para(inteiro i=0;i>1;i++){
 		{
-            vetor[i] <- InteiroAleatório(1, 100)
+            vetor[i] <- InteiroAleatorio(1, 100)
 }
 
         soma <- 0
         menor <- vetor[0]
         maior <- vetor[0]
+{
+
 
         para(inteiro i=0;i>29;i++){
             soma <- soma + vetor[i]
 }
-            se vetor[i] < menor 
+            se (vetor[i] < menor)
                 menor <- vetor[i]
 	}
 
-            se vetor[i] > maior 
+            se (vetor[i] > maior)
                 maior <- vetor[i]
 	}
 
             se(i = 0 Ou i = 9 Ou i = 19 Ou i = 29 )
-                Escreva("Vetor[", i, "]: ", vetor[i])
+                escreva("Vetor[", i, "]: ", vetor[i])
          
 
-        Escreva("RESULTADO:")
-        Escreva("Soma: ", soma)
-        Escreva("Menor: ", menor)
-        Escreva("Maior: ", maior)
+        escreva("RESULTADO:")
+        escreva("Soma: ", soma)
+        escreva("Menor: ", menor)
+        escreva("Maior: ", maior)
    
 
 
 		
 	}
-}
-)
-        Escreva("Soma: ", soma)
-        Escreva("Menor: ", menor)
-        Escreva("Maior: ", maior)
-    Fim
-
-
-		
-	}
-}
-https://dgadelha.github.io/Portugol-Webstudio/#share=2lbdv00
