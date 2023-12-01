@@ -48,10 +48,10 @@ programa
 reva("Número ", numero3, " - Encontrado")
             senao
                 Escreva("Número ", numero3, " - Não encontrado")
-            FimSe
-        FimPara
-    Fim
+     
 
 
 	}
 }
+link para teste:
+https://dgadelha.github.io/Portugol-Webstudio/#share=4cuwaur
