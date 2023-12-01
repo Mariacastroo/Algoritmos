@@ -11,32 +11,33 @@ real menorNota
 real maiorNota
 inteiro i
  
-    
+    {
+{
         soma <- 0
         menorNota <- 10  // Inicialize com um valor alto
         maiorNota <- 0   // Inicialize com um valor baixo
 
-        para(inteiro i=0 ;i>1;j++)}
-            Escreva("Digite a nota do al(uno ", i, ": ")
+            para(inteiro i=0 ;i>1;j++)}
+            escreva("Digite a nota do al(uno ", i, ": ")
             Leia(notas[i])
             soma <- soma + notas[i]
 	
-
-            Se notas[i] < menorNota 
+{
+{
+            se (notas[i] < menorNota)
                 menorNota <- notas[i]
-            FimSe
+          {
+{
 
-            Se notas[i] > maiorNota
-                maiorNota <- notas[i]
-            FimSe
-        FimPara
-
-        media <- soma / 10
-
-        Escreva("A média da sala é: ", media)
-        Escreva("A menor nota é: ", menorNota)
-        Escreva("A maior nota é: ", maiorNota)
-    Fim
+            se(notas[i] > maiorNota)
+            maiorNota <- notas[i]
+              media <- soma / 10
+        escreva("A média da sala é: ", media)
+        escreva("A menor nota é: ", menorNota)
+        escreva("A maior nota é: ", maiorNota)
+   
 
 	}
 }
+link de teste no portugol abaixo:
+https://dgadelha.github.io/Portugol-Webstudio/#share=9iz3pf9
