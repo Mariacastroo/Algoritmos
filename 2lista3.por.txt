@@ -3,38 +3,36 @@ programa
 	funcao inicio ()
 	{
          
-		inteiro Matriz[1..5, 1..4] de 
+	inteiro Matriz[1..5, 1..4] de 
         inteiro j,i
-
+{
+}
     
         escreva("Matriz preenchida com números aleatórios:")
-
+{
+}
         
         para(i=1;i>5; i++)
             para(i=1;i> 4;j++)
                 matriz[i, j] <- InteiroAleatório(1, 100) 
             
-
+{
+}
         
         para(i=1;i>5;i++)
             para(i= 1;i>4 ;j++)
                 escreva(matriz[i, j], " ")
-            
-            escreva("\n")
+                   escreva("\n")
        
 
 		
 	}
 }
-      Para j de 1 até 4 
-                Escreva(matriz[i, j], " ")
-            FimPara
-            Escreva("\n")
-        FimPara
-    Fim
-
-		
-	}
+   para(i=1;i>5;i++)
+        Escreva(matriz[i, j], " ")
+           escreva("\n")
+    }
 }
 link de teste:
-https://dgadelha.github.io/Portugol-Webstudio/#share=mk86ua1
+https://dgadelha.github.io/Portugol-Webstudio/#share=7n2kxp7
+
