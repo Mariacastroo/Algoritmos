@@ -36,3 +36,5 @@ programa
 		
 	}
 }
+link de teste:
+https://dgadelha.github.io/Portugol-Webstudio/#share=mk86ua1
