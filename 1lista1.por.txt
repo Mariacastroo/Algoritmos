@@ -10,7 +10,7 @@ funcao inicio ()
   inteiro notas
     soma = 0
     menorNota = 10  
-    maiorNota = 0   
+    maiorNota = 0 
 
     para (i = 0; i < 10; i++) {
         escreva("Digite a nota do ", i, "º bimestre: ")
