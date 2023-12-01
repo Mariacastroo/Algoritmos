@@ -1,6 +1,6 @@
 programa
 {
-	funcao inicio ()
+funcao inicio ()
 	{
 		
 
@@ -44,31 +44,3 @@ programa
 
 	}
 } 
-
-	
-
-	}
-}
-
-fimalgoritmo
-
-	}
-} 
-
-	}
-}
- Fim
-
-	}
-}
-
-	}
-}
- ", maiorNota)
-fimalgoritmo
-
-	}
-} Fim
-
-	}
-}
