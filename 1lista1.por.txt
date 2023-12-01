@@ -44,3 +44,7 @@ funcao inicio ()
 
 	}
 } 
+
+
+Link do teste no Portugol:
+https://dgadelha.github.io/Portugol-Webstudio/#share=jxalbbe
