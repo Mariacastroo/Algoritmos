@@ -1,6 +1,7 @@
 produto{
 }
-
+funçao inicio()
+}
    codigos_produtos: vetor[1..5] de inteiro
    precos_produtos: vetor[1..5] de real
    codigo_produto_usuario: inteiro
@@ -21,14 +22,18 @@ produto{
 {
    indice <- 0
    enquanto (indice < 5) e (codigos_produtos[indice + 1] <> codigo_produto_usuario) 
-      indice <- indice + 1
-   fim enquanto
+   indice <- indice + 1
+ 
 {
 {
    se (indice < 5) 
    escreva("O preço do produto com código ", codigo_produto_usuario, " é R$", precos_produtos[indice]:2:2)
    senao
    escreva("Código de produto inválido.")
+{
+}
+link para teste:
+https://dgadelha.github.io/Portugol-Webstudio/#share=w8zd9cq
 
 
 
