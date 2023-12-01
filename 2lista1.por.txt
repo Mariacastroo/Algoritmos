@@ -40,4 +40,5 @@ inteiro i
 	}
 }
 link de teste no portugol abaixo:
-https://dgadelha.github.io/Portugol-Webstudio/#share=9iz3pf9
+https://dgadelha.github.io/Portugol-Webstudio/#share=tpbtocp
+
