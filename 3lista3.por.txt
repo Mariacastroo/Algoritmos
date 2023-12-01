@@ -1,0 +1,40 @@
+programa
+{
+	funcao inicio ()
+	{
+        inteiro Matriz[1..5, 1..4] de
+        inteiro i,j
+
+    
+        escreva("Matriz preenchida com números aleatórios:")
+
+        
+        para(inteiro i=1;i>5;i++)
+            para(inteiro i=1;i>4 ;j++)
+                matriz[i, j] <- InteiroAleatório(1, 100) 
+           
+        
+        para(intero i=1; i>5;i++)
+            Escreva("Linha ", i, ": ")
+            SomaLinha <- 0
+            para(inteiro i=1;i>4;j++)
+                escreva(matriz[i, j], " ")
+                SomaLinha <- SomaLinha + matriz[i, j]
+           
+            Escreva("Soma: ", SomaLinha, ".")
+            
+       
+
+		
+	}
+}
+          SomaLinha <- SomaLinha + matriz[i, j]
+            FimPara
+            Escreva("Soma: ", SomaLinha, ".")
+            Escreva("\n")
+        FimPara
+    Fim
+
+		
+	}
+}

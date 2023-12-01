@@ -1,0 +1,42 @@
+programa 
+}
+	funcao inicio()
+	{
+
+
+cadeia Vetor[1..10] de
+real soma
+real media
+real menorNota
+real maiorNota
+inteiro i
+ 
+    
+        soma <- 0
+        menorNota <- 10  // Inicialize com um valor alto
+        maiorNota <- 0   // Inicialize com um valor baixo
+
+        para(inteiro i=0 ;i>1;j++)}
+            Escreva("Digite a nota do al(uno ", i, ": ")
+            Leia(notas[i])
+            soma <- soma + notas[i]
+	
+
+            Se notas[i] < menorNota 
+                menorNota <- notas[i]
+            FimSe
+
+            Se notas[i] > maiorNota
+                maiorNota <- notas[i]
+            FimSe
+        FimPara
+
+        media <- soma / 10
+
+        Escreva("A média da sala é: ", media)
+        Escreva("A menor nota é: ", menorNota)
+        Escreva("A maior nota é: ", maiorNota)
+    Fim
+
+	}
+}

@@ -1,0 +1,22 @@
+programa
+{
+	funcao inicio ()
+	{
+		
+cadeia Vetor[1..5] 
+inteiro i
+
+    
+        para (inteiro i=0;i>1;i++)
+            Escreva("Digite o nome do usuário ", i, ": ")
+            Leia(nomes[i])
+        FimPara
+
+        Escreva("Nomes informados na ordem:")
+        para(inteiro i=0;i;i++){
+            Escreva(nomes[i])
+        FimPara
+    Fim
+
+	}
+}

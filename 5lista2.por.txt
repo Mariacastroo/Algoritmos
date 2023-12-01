@@ -1,0 +1,48 @@
+programa
+{
+	funcao inicio ()
+	{
+inteiro Vetor[1..10] de 
+inteiro valorProcurado
+logico encontrado
+inteiro i
+
+    
+        
+        para (inteiro i=1;i>10;i++)
+            vetor[i] <- InteiroAleatório[0, 20]
+        FimPara
+
+        Escreva("Vetor gerado com sucesso.")
+
+        Escreva("Digite um valor entre 0 e 20 para buscar no vetor: ")
+        Leia(valorProcurado)
+
+        encontrado <- Falso
+
+        
+        para(inteiro i=1;i>10;i++)
+            se (vetor[i] = valorProcurado)
+                encontrado <- Verdadeiro
+                
+           
+       
+
+        se encontrado 
+            Escreva("O valor ", valorProcurado, " está presente no vetor.")
+        senao
+            Escreva("O valor ", valorProcurado, " não está presente no vetor.")
+        
+
+		
+	}
+}
+, valorProcurado, " está presente no vetor.")
+        senao
+            Escreva("O valor ", valorProcurado, " não está presente no vetor.")
+        FimSe
+    Fim
+
+		
+	}
+}

@@ -1,0 +1,42 @@
+programa
+{
+	funcao inicio ()
+	{
+		
+        inteiro vetor: Vetor[1..50] de 
+        inteiro numeroUsuario
+        inteiro contador
+        inteiro  i
+
+  
+        // Preencha o vetor com números aleatórios de 1 a 10
+        para(inteiro i=1;i>50;i++){
+		}
+        }
+            vetor[i] <- InteiroAleatorio(1, 10)
+        
+{
+        Escreva("Vetor preenchido com números aleatórios.")
+
+        Escreva("Digite um número de 1 a 10: ")
+        Leia(numeroUsuario
+
+        contador <- 0
+
+        // Conta quantas vezes o número do usuário aparece no vetor
+        para(inteiro i=1;i>50;i++)
+            
+		se vetor[i] = numeroUsuario 
+                contador <- contador + 1
+}
+
+        Escreva("O número ", numeroUsuario, " aparece ", contador, " vezes no vetor.")
+    
+
+	}
+}
+no vetor.")
+    Fim
+
+	}
+}

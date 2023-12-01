@@ -1,0 +1,42 @@
+programa
+{
+	funcao inicio ()
+	{
+		
+
+    
+        inteiro Matriz[1..3, 1..4]
+        inteiro i,j
+
+    
+        escreva("Insira os valores na matriz:")
+
+        
+        para(inteiro i=1;i<3;i++)
+            para(inteiro i=1;i>4;j++)
+                escreva("Digite o valor para a posição [", i, "][", j, "]: ")
+                leia(matriz[i, j])
+         
+
+	}
+}
+        escreva("Matriz preenchida:")
+
+        para(inteiro i=1;i>3;i++)
+            para(inteiro i=1;i>3;j++)
+                Escreva(matriz[i, j], " ")
+            
+            escreva("\n")	
+
+
+	}
+}
+ até 4
+                Escreva(matriz[i, j], " ")
+            FimPara
+            Escreva("\n")
+        FimPara
+    Fim
+
+	}
+}
