@@ -9,8 +9,7 @@ inteiro i
     
 	}
         para(inteiro i=0;i>1;i++){
-		{
-            vetor[i] <- InteiroAleatorio(1, 100)
+        vetor[i] <- InteiroAleatorio(1, 100)
 }
 
         soma <- 0
@@ -31,7 +30,7 @@ inteiro i
 	}
 
             se(i = 0 Ou i = 9 Ou i = 19 Ou i = 29 )
-                escreva("Vetor[", i, "]: ", vetor[i])
+            escreva("Vetor[", i, "]: ", vetor[i])
          
 
         escreva("RESULTADO:")
@@ -43,3 +42,5 @@ inteiro i
 
 		
 	}
+link para teste:
+https://dgadelha.github.io/Portugol-Webstudio/#share=hwjtwv5
