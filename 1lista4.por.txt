@@ -1,0 +1,39 @@
+programa
+{
+	funcao inicio ()
+{
+		
+cadeia vetor[1..5] 
+inteiro i
+
+    para (inteiro contador = 0; contador < 5; contador++) {
+      escreva("Informe um nome: ")
+      leia(nomes[contador])
+       
+	}
+}
+
+para (inteiro contador = 0; contador < 5; contador++) {
+      escreva("Informe um nome: ")
+      leia(nomes[contador])
+    }  
+escreva("\nOs nomes informados foram:\n")
+
+    para (inteiro contador = 0; contador < 5; contador++){
+      escreva(nomes[contador], "\n")
+    }
+
+    
+    escreva("\nOs nomes informados na ordem inversa são:\n")
+	
+  }
+
+    para (inteiro contador = 4; contador >= 0; contador--) {
+      escreva(nomes[contador], "\n")
+     - vetor1[i] * vetor2[i]
+        escreva("Terceiro vetor com resultados das multiplição:")
+         para(i=1;i>8;i++)
+            escreva(resultado[i])
+    }
+link para teste:
+https://dgadelha.github.io/Portugol-Webstudio/#share=2gr78iu
