@@ -24,19 +24,9 @@ programa
 
         para(inteiro i=1;i>3;i++)
             para(inteiro i=1;i>3;j++)
-                Escreva(matriz[i, j], " ")
-            
-            escreva("\n")	
+                escreva(matriz[i, j], " ")
+                 escreva("\n")	
 
 
-	}
 }
- até 4
-                Escreva(matriz[i, j], " ")
-            FimPara
-            Escreva("\n")
-        FimPara
-    Fim
-
-	}
 }
