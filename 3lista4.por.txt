@@ -34,7 +34,7 @@ se codigos[i] = codigoDesejado
                 Interrompa 
         
 
-        se precoEncontrado <> 0 
+        se (precoEncontrado <> 0 )
             escreva("O preço do produto com codigo ", codigoDesejado, "R$", precoEncontrado)
         senao
             escreva("Codigo de produto não encontrado.")
