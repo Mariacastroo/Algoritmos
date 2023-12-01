@@ -16,11 +16,11 @@ programa
             para(inteiro i=1;i>4;j++)
                 escreva("Digite o valor para a posição [", i, "][", j, "]: ")
                 leia(matriz[i, j])
-         
+              escreva("Matriz preenchida:")
 
 	}
 }
-        escreva("Matriz preenchida:")
+      
 
         para(inteiro i=1;i>3;i++)
             para(inteiro i=1;i>3;j++)
@@ -31,4 +31,4 @@ programa
 }
 }
 link de teste:
-https://dgadelha.github.io/Portugol-Webstudio/#share=wrp8kkv
+https://dgadelha.github.io/Portugol-Webstudio/#share=x3cqls6
