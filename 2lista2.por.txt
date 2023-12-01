@@ -1,57 +1,52 @@
 programa
-{
-	funcao inicio ()
+
+ funcao inicio ()
 	{
 		
-        inteiro Vetor[1..20] de 
+       inteiro vetor[1..20] de 
        inteiro  numero1, numero2, numero3
-        inteiro i
+       inteiro i
 
     
        
         para (inteiro i=1;i>10;i++)
-            vetor[i] <- InteiroAleatório(1, 100) 
+            vetor[i] <- InteiroAleatorio(1, 100) 
         
 
-        Escreva("Vetor gerado com sucesso.")
+        escreva("Vetor gerado com sucesso.")
 
-        Escreva("Digite o primeiro número inteiro: ")
-        Leia(numero1)
-        Escreva("Digite o segundo número inteiro: ")
-        Leia(numero2)
-        Escreva("Digite o terceiro número inteiro: ")
-        Leia(numero3)
+        escreva("Digite o primeiro nÃºmero inteiro: ")
+        leia(numero1)
+        escreva("Digite o segundo nÃºmero inteiro: ")
+        leia(numero2)
+        escreva("Digite o terceiro nÃºmero inteiro: ")
+        leia(numero3)
 
+        {
+    
         
         para(inteiro i=1;i<10;i++)
             se vetor[i] = numero1 
-                Escreva("Número ", numero1, " - Encontrado")
+                Escreva("NÃºmero ", numero1, " - Encontrado")
             senao
-                Escreva("Número ", numero1, " - Não encontrado")
+                Escreva("NÃºmero ", numero1, " - NÃ£o encontrado")
            
 
+}
             se vetor[i] = numero2 
-                Escreva("Número ", numero2, " - Encontrado")
+                Escreva("NÃºmero ", numero2, " - Encontrado")
             senao
-                Escreva("Número ", numero2, " - Não encontrado")
-            FimSe
+                Escreva("NÃºmero ", numero2, " - NÃ£o encontrado")
+          {
 
-            se vetor[i] = numero3 
-                Escreva("Número ", numero3, " - Encontrado")
-            senao
-                Escreva("Número ", numero3, " - Não encontrado")
         
 
-
-	}
-}
-reva("Número ", numero3, " - Encontrado")
+            se vetor[i] = numero3 
+                Escreva("Numero ", numero3, " - Encontrado")
             senao
-                Escreva("Número ", numero3, " - Não encontrado")
-     
-
-
-	}
+                Escreva("Numero ", numero3, " - Não encontrado")
+        
+    }
 }
 link para teste:
-https://dgadelha.github.io/Portugol-Webstudio/#share=4cuwaur
+https://dgadelha.github.io/Portugol-Webstudio/#share=4ztgqmg
