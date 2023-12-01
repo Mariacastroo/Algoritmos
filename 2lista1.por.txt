@@ -16,9 +16,9 @@ inteiro i
         soma <- 0
         menorNota <- 10  
         maiorNota <- 0   
-
-            para(inteiro i=0 ;i>1;j++)}
-            escreva("Digite a nota do al(uno ", i, ": ")
+{
+            para(inteiro i=0 ;i>1;j++){
+            escreva("Digite a nota do aluno ", i, ": ")
             Leia(notas[i])
             soma <- soma + notas[i]
 	
@@ -40,5 +40,5 @@ inteiro i
 	}
 }
 link de teste no portugol abaixo:
-https://dgadelha.github.io/Portugol-Webstudio/#share=tpbtocp
+https://dgadelha.github.io/Portugol-Webstudio/#share=849yvnl
 
