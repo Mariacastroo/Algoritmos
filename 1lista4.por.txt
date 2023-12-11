@@ -36,4 +36,4 @@ escreva("\nOs nomes informados foram:\n")
             escreva(resultado[i])
     }
 link para teste:
-https://dgadelha.github.io/Portugol-Webstudio/#share=xy9ryhh
+https://dgadelha.github.io/Portugol-Webstudio/#share=dxy02h9
