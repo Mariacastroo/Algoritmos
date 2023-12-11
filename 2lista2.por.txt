@@ -49,4 +49,4 @@ programa
     }
 }
 link para teste:
-https://dgadelha.github.io/Portugol-Webstudio/#share=4ztgqmg
+https://dgadelha.github.io/Portugol-Webstudio/#share=0f77its
