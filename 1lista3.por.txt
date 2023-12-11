@@ -31,4 +31,4 @@ programa
 }
 }
 link de teste:
-https://dgadelha.github.io/Portugol-Webstudio/#share=x3cqls6
+https://dgadelha.github.io/Portugol-Webstudio/#share=sckr0la
