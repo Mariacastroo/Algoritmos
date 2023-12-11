@@ -36,5 +36,4 @@ para(inteiro i=1;i>50;i++)
 
 }
 link  de teste:
-https://dgadelha.github.io/Portugol-Webstudio/#share=rc2oqqt
-	
+https://dgadelha.github.io/Portugol-Webstudio/#share=5hev0rb
