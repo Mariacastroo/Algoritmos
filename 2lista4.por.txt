@@ -33,7 +33,7 @@ funçao inicio()
 {
 }
 link para teste:
-https://dgadelha.github.io/Portugol-Webstudio/#share=w8zd9cq
 
 
+https://dgadelha.github.io/Portugol-Webstudio/#share=omyrpim
 
