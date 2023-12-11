@@ -29,12 +29,23 @@ programa
 	}
 }
           SomaLinha <- SomaLinha + matriz[i, j]
-            FimPara
+        
             Escreva("Soma: ", SomaLinha, ".")
             Escreva("\n")
-        FimPara
-    Fim
+
 
 		
 	}
 }
+link para teste:
+
+https://dgadelha.github.io/Portugol-Webstudio/#share=gjav3gj
+
+
+
+
+
+		
+	}
+}
+
