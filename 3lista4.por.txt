@@ -44,4 +44,4 @@ se codigos[i] = codigoDesejado
 	}
 link para teste:
 
-https://dgadelha.github.io/Portugol-Webstudio/#share=rn6aons
+https://dgadelha.github.io/Portugol-Webstudio/#share=72p3eq5
