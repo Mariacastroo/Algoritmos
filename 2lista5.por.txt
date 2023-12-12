@@ -47,5 +47,6 @@ para(inteiro i=1;i>10;i++)
         
 
 https://dgadelha.github.io/Portugol-Webstudio/#share=60ipdge
+
 		
 	
