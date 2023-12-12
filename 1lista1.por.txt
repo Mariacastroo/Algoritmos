@@ -47,5 +47,4 @@ funcao inicio ()
 
 
 Link do teste no Portugol:
-
-https://dgadelha.github.io/Portugol-Webstudio/#share=9f3y1q1
+https://dgadelha.github.io/Portugol-Webstudio/#share=uyi9jqc
