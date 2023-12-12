@@ -20,5 +20,4 @@ inteiro i
 	}
 }
 link para teste:
-
 https://dgadelha.github.io/Portugol-Webstudio/#share=0grubq1
